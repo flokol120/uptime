@@ -13,6 +13,30 @@ sites:
       - flokol120
     headers:
       - "Authorization: Basic $BLOG_AUTH"
+  - name: Secret 1
+    url: $SECRET_SITE_1
+    assignees:
+      - flokol120
+  - name: Secret 2
+    url: $SECRET_SITE_2
+    assignees:
+      - flokol120
+  - name: Secret 3
+    url: $SECRET_SITE_3
+    assignees:
+      - flokol120
+  - name: Secret 4
+    url: $SECRET_SITE_4
+    assignees:
+      - flokol120
+  - name: Secret 5
+    url: $SECRET_SITE_5
+    assignees:
+      - flokol120
+  - name: Secret 6
+    url: $SECRET_SITE_6
+    assignees:
+      - flokol120
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
