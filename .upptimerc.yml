@@ -45,10 +45,12 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://flodoerr.com/favicon.ico
   name: Server Status
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
+    - title: My Portfolio
+      href: https://flodoerr.com
     - title: GitHub
       href: https://github.com/$OWNER
 
