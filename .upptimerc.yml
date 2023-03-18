@@ -11,6 +11,8 @@ sites:
     url: https://blog.flodoerr.com
     assignees:
       - flokol120
+    headers:
+      - "Authorization: Basic $BLOG_AUTH"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,6 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://flodoerr.com/favicon.ico
   name: Server Status
+  theme: dark
   navbar:
     - title: Status
       href: /
