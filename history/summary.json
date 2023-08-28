@@ -4,19 +4,19 @@
     "url": "https://flodoerr.com",
     "icon": "https://icons.duckduckgo.com/ip3/flodoerr.com.ico",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 296,
-    "timeWeek": 567,
-    "timeMonth": 655,
-    "timeYear": 624,
+    "time": 623,
+    "timeDay": 359,
+    "timeWeek": 558,
+    "timeMonth": 649,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-08-28": 0
+      "2023-08-28": 10
     }
   },
   {
